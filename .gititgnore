@@ -1,0 +1,9 @@
+# Ignore the virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore the Arducam SDK (Users should clone this themselves per your README)
+Arducam_tof_camera/
